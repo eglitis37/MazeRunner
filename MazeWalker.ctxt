@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=MazeWalker
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Player\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MazeWalker()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Player\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ checkWin()
+comment3.text=\r\n\ checkWin\ will\ check\ if\ the\ Player\ has\ reached\ the\ WinningSpace\ and\ will\ show\ a\ message\ \r\n\ that\ you\ won.\r\n\ @param\ There\ are\ no\ parameters.\r\n\ @return\ Nothing\ is\ returned.\r\n
+comment4.params=
+comment4.target=boolean\ wallOnLeft()
+comment4.text=\r\n\ wallOnLeft\ checks\ if\ there\ is\ a\ wall\ to\ the\ Player's\ left\ side.\r\n\ @param\ There\ are\ no\ parameters.\r\n\ @return\ A\ boolean\ that\ tells\ you\ if\ there\ is\ or\ isn't\ wall\ on\ your\ left.\r\n
+comment5.params=
+comment5.target=boolean\ canMoveForward()
+comment5.text=\r\n\ canMoveForward\ checks\ if\ Player\ can\ move\ forward.\r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ A\ boolean\ that\ tells\ whether\ or\ not\ can\ move\ forward.\r\n
+numComments=6

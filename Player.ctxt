@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Player\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Player()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Player\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ moveForward()
+comment3.text=\r\n\ moveForward\ sets\ rotation\ for\ Player\ and\ moves\ it\ one\ block\ to\ that\ side.\r\n\ @param\ There\ are\ no\ parameters.\r\n\ @return\ Nothing\ is\ returned.\r\n
+comment4.params=
+comment4.target=boolean\ checkForWall()
+comment4.text=\r\n\ checkForWall\ checks\ if\ there\ is\ wall\ in\ the\ path\ of\ player.\ If\ there\ is,\ stops\r\n\ the\ Player\ to\ go\ there.\r\n\ @param\ There\ are\ no\ parameters.\r\n\ @return\ boolean\ returns\ if\ there\ is\ wall\ or\ not.\r\n
+comment5.params=
+comment5.target=void\ checkWin()
+comment5.text=\r\n\ checkWin\ checks\ if\ the\ player\ is\ touching\ winning\ space\ and\ if\ it\ does\ touch\ it,\r\n\ stops\ Greenfoot\ and\ shows\ text.\r\n\ @param\ There\ are\ no\ parameters.\r\n\ @return\ Nothing\ is\ returned.\r\n
+numComments=6
